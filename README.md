@@ -129,17 +129,10 @@ I share engineering notes and patterns on [Medium](https://medium.com/@kiril.nug
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynicLT&theme=default&hide_border=false" alt="streak"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cynicLT&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</p>
 
 ---
 
 <p align="center">
   <b>Let's build something that scales.</b><br/>
   📫 <a href="mailto:kiril.nugmanov@gmail.com">kiril.nugmanov@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/kirilnugmanov">LinkedIn</a> &nbsp;·&nbsp; <a href="https://medium.com/@kiril.nugmanov">Medium</a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cynicLT&icon=0&color=1" alt="visitors"/>
 </p>
